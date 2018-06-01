@@ -1,0 +1,62 @@
+
+
+Used Memory before 16061424
+
+Naive
+
+Used Memory before 16061424Used Memory after : 16061424 Memory increased : 0
+
+Time taken : 41 milliseconds
+
+
+KMP
+
+Used Memory before 16061424Used Memory after : 32191744 Memory increased : 16130320
+
+Time taken : 38 milliseconds
+
+
+Boyer Moore
+
+Used Memory before 32191744Used Memory after : 32191744 Memory increased : 0
+
+Time taken : 22 milliseconds
+
+
+Rabin Karp
+
+Used Memory before 32191744Used Memory after : 32191744 Memory increased : 0
+
+Time taken : 14 milliseconds
+
+
+
+Used Memory before 16061424
+
+Naive
+
+Used Memory before 16061424Used Memory after : 16061424 Memory increased : 0
+
+Time taken : 42 milliseconds
+
+
+KMP
+
+Used Memory before 16061424Used Memory after : 32191744 Memory increased : 16130320
+
+Time taken : 32 milliseconds
+
+
+Boyer Moore
+
+Used Memory before 32191744Used Memory after : 32191744 Memory increased : 0
+
+Time taken : 20 milliseconds
+
+
+Rabin Karp
+
+Used Memory before 16061424Used Memory after : 16061424 Memory increased : 0
+
+Time taken : 9 milliseconds
+
